@@ -101,6 +101,9 @@ button {
 .btn:focus {
   background-color: #052146;
 }
+.is-selected {
+  background-color: #052146;
+}
 .submit {
   width: 100%;
   background: #fb7413;
